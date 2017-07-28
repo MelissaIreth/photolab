@@ -21,7 +21,7 @@ gulp.task('style', function(){
 });
 
 gulp.task('webserver', function(){
-	gulp.src('../gulpie/')
+	gulp.src('../photolab/')
 	.pipe(webserver({
 		fallback: 'index.html',
 		livereload: true,
