@@ -1,11 +1,39 @@
 nav {
   background-color: transparent;
-  color: white;
-  font-family: 'Raleway', sans-serif; }
+  font-family: 'Raleway', sans-serif;
+  color: white; }
 
-#head {
+.get img {
+  margin-top: -65px;
+  width: 100%;
+  position: absolute; }
+
+.title {
+  font-family: 'Comfortaa', cursive;
+  margin-top: 280px;
+  z-index: 9999;
+  color: white; }
+
+#photo {
+  font-family: 'Comfortaa', cursive;
+  margin-top: 280px;
+  background-color: #f5f6f8;
+  padding: 70px; }
+  #photo h5 {
+    color: #26a69a; }
+  #photo p {
+    color: #bbbbbd; }
+
+.download {
+  padding: 60px 0;
+  color: #3f3f3f;
   font-family: 'Comfortaa', cursive; }
-  #head img {
-    position: absolute; }
+
+.downrrss {
+  font-family: 'Comfortaa', cursive; }
+  .downrrss a {
+    color: #3f3f3f; }
+  .downrrss span {
+    color: #26a69a; }
 
 /*# sourceMappingURL=main.css.map */

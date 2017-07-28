@@ -1,13 +1,49 @@
 nav{
 	background-color: transparent;
-	color: white;
 	font-family: 'Raleway', sans-serif;
+	color: white;
 }
 
-#head{
+.get{
 	img{
+		margin-top: -65px;
+		width: 100%;
 		position: absolute;
 	}
-	
+}
+
+.title{
 	font-family: 'Comfortaa', cursive;
+	margin-top: 280px;
+	z-index : 9999;
+	color: white;
+}
+
+#photo{
+	font-family: 'Comfortaa', cursive;
+	margin-top: 280px;
+	background-color: $gris-claro;
+	padding: 70px;
+	h5{
+		color: $verde;
+	}
+	p{
+		color: $gris-oscuro;
+	}
+}
+
+.download{
+	padding: 60px 0;
+	color: $negro;
+	font-family: 'Comfortaa', cursive;
+}
+
+.downrrss{
+	font-family: 'Comfortaa', cursive;
+	a{
+		color: $negro;
+	}
+	span{
+		color: $verde;
+	}
 }
