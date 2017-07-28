@@ -5,18 +5,17 @@ nav {
 
 .get img {
   margin-top: -65px;
-  width: 100%;
-  position: absolute; }
+  width: 100%; }
 
 .title {
   font-family: 'Comfortaa', cursive;
-  margin-top: 280px;
+  margin-top: -390px;
   z-index: 9999;
   color: white; }
 
 #photo {
   font-family: 'Comfortaa', cursive;
-  margin-top: 280px;
+  margin-top: 240px;
   background-color: #f5f6f8;
   padding: 70px; }
   #photo h5 {
